@@ -4,7 +4,7 @@
 layout: about
 
 # The title of the page.
-title: About
+title: about
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
@@ -19,7 +19,7 @@ hide_description: true
 image: /assets/img/blog/hydejack-8.png
 ---
 
-The "Best Jekyll Theme by a Mile".
+The "Best Jekyll Theme by a Kilometer".
 {:.lead}
 
 ![Screenshot](assets/img/blog/hydejack-8.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
